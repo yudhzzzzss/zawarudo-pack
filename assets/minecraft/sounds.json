@@ -1,0 +1,18 @@
+{
+  "zawarudo.stop": {
+    "sounds": [
+      {
+        "name": "zawarudo/stop",
+        "stream": false
+      }
+    ]
+  },
+  "zawarudo.wind": {
+    "sounds": [
+      {
+        "name": "zawarudo/wind",
+        "stream": false
+      }
+    ]
+  }
+}
